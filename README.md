@@ -1,2 +1,2 @@
 # Netfilx-Frontend-Clone
-Netflix Clone using HTML, CSS, JavaScript
+Netflix Clone using HTML, CSS
